@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 4086161b4c66bb940bee28aec2d765cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2408080183376825382
+    second: Necklaces_3
+  - first:
+      213: -3211734081010330238
+    second: Necklaces_1
+  - first:
+      213: 4600689123896921514
+    second: Necklaces_2
+  - first:
+      213: -8524054940653806202
+    second: Necklaces_3
+  - first:
+      213: 2483344158072439088
+    second: Necklaces_1
+  - first:
+      213: 1130188618211150015
+    second: Necklaces_2
+  - first:
+      213: 3369704709842058934
+    second: Necklaces_6
+  - first:
+      213: -5194964788131467226
+    second: Necklaces_7
+  - first:
+      213: 4242062724268868910
+    second: Necklaces_8
+  - first:
+      213: -6948418470618830017
+    second: Necklaces_9
+  - first:
+      213: 4567039043031533091
+    second: Necklaces_10
+  - first:
+      213: 1218082279979955178
+    second: Necklaces_11
+  - first:
+      213: 2924986159145574897
+    second: Necklaces_12
+  - first:
+      213: -8042463936035952970
+    second: Necklaces_13
+  - first:
+      213: -108919813406258358
+    second: Necklaces_14
+  - first:
+      213: -830942422275528384
+    second: Necklaces_15
+  - first:
+      213: 4149752735920933221
+    second: Necklaces_16
+  - first:
+      213: 3493619913572780208
+    second: Necklaces_17
+  - first:
+      213: 6100768439580304844
+    second: Necklaces_18
+  - first:
+      213: -7508877339024593909
+    second: Necklaces_19
+  - first:
+      213: 5102208450333112716
+    second: Necklaces_20
+  - first:
+      213: 1398095680008734765
+    second: Necklaces_21
+  - first:
+      213: -2977901938404783145
+    second: Necklaces_22
+  - first:
+      213: -1931170282537382862
+    second: Necklaces_23
+  - first:
+      213: -3480445957107669576
+    second: Necklaces_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necklaces_0
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 4615
+        width: 65
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9a60a13974b980800000000000000
+      internalID: -8524054940653806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 4673
+        width: 70
+        height: 174
+      alignment: 9
+      pivot: {x: 0.40541512, y: 0.27961117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03103fcba5c967220800000000000000
+      internalID: 2483344158072439088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_2
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 4715
+        width: 70
+        height: 132
+      alignment: 9
+      pivot: {x: 0.44428712, y: 0.04403039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb84aad6f8c3faf00800000000000000
+      internalID: 1130188618211150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_3
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3911
+        width: 246
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ba2fe4d7c49ed0800000000000000
+      internalID: -2408080183376825382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

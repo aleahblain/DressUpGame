@@ -1,0 +1,272 @@
+fileFormatVersion: 2
+guid: 7f873e195f28fee448722f81b4058645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5239623619563646176
+    second: FaceStuff_4
+  - first:
+      213: -1322370345999858803
+    second: FaceStuff_1
+  - first:
+      213: -8950628321304241444
+    second: FaceStuff_2
+  - first:
+      213: -8090758621242939180
+    second: FaceStuff_3
+  - first:
+      213: 226206090082365680
+    second: FaceStuff_4
+  - first:
+      213: 639663114885058986
+    second: FaceStuff_5
+  - first:
+      213: -4604925751557465743
+    second: FaceStuff_6
+  - first:
+      213: -189893128667849752
+    second: FaceStuff_7
+  - first:
+      213: -6955689896362158147
+    second: FaceStuff_8
+  - first:
+      213: 1338572271784545886
+    second: FaceStuff_2
+  - first:
+      213: -24080559924352402
+    second: FaceStuff_10
+  - first:
+      213: 600711730300266980
+    second: FaceStuff_11
+  - first:
+      213: 233250582001156595
+    second: FaceStuff_12
+  - first:
+      213: -39818496066355219
+    second: FaceStuff_13
+  - first:
+      213: -8661412875745804801
+    second: FaceStuff_14
+  - first:
+      213: -5483085678476803284
+    second: FaceStuff_15
+  - first:
+      213: -5856615960017325802
+    second: FaceStuff_16
+  - first:
+      213: -1277021098311477675
+    second: FaceStuff_17
+  - first:
+      213: -5499670093953967383
+    second: FaceStuff_18
+  - first:
+      213: -2752243733008927865
+    second: FaceStuff_19
+  - first:
+      213: 9061625282344009157
+    second: FaceStuff_4
+  - first:
+      213: 8331602125937326872
+    second: FaceStuff_1
+  - first:
+      213: -2028562126369774193
+    second: FaceStuff_22
+  - first:
+      213: -4725083207644700334
+    second: FaceStuff_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FaceStuff_2
+      rect:
+        serializedVersion: 2
+        x: 4253
+        y: 2916
+        width: 301
+        height: 208
+      alignment: 9
+      pivot: {x: 0.41984075, y: 0.90893435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec7ed9360939210800000000000000
+      internalID: 1338572271784545886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceStuff_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1096
+        width: 362
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd30d90f2c51cd70800000000000000
+      internalID: 9061625282344009157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceStuff_1
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1123
+        width: 512
+        height: 454
+      alignment: 9
+      pivot: {x: 0.45931554, y: 0.032134607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b3266adfbcf9370800000000000000
+      internalID: 8331602125937326872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceStuff_4
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1347
+        width: 151
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0239927241e1947b0800000000000000
+      internalID: -5239623619563646176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

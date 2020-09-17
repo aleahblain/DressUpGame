@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: a6deedee1bb511e40960e84b0b4a2ac6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2532766429855629420
+    second: Accessories_0
+  - first:
+      213: 6978715442030580158
+    second: Earring_1
+  - first:
+      213: -4653427000475450172
+    second: Earring_2
+  - first:
+      213: -4607735624590280163
+    second: Accessories_3
+  - first:
+      213: 3045504458676584688
+    second: Accessories_4
+  - first:
+      213: -6861499703678727270
+    second: Accessories_5
+  - first:
+      213: 8822150099388408850
+    second: Accessories_6
+  - first:
+      213: 4320795325994557044
+    second: Accessories_7
+  - first:
+      213: 236091350785259282
+    second: Accessories_8
+  - first:
+      213: 4982477295513030146
+    second: Accessories_9
+  - first:
+      213: -2429690337614015138
+    second: Accessories_10
+  - first:
+      213: -2284106933097416695
+    second: Accessories_11
+  - first:
+      213: -5778855750390242141
+    second: Accessories_12
+  - first:
+      213: 5192779199847288922
+    second: Earring_0
+  - first:
+      213: -6200710099883789027
+    second: Accessories_14
+  - first:
+      213: 675008616562983815
+    second: Accessories_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Earring_1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 4885
+        width: 61
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5175761, y: 0.8231938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb114ce38b069d060800000000000000
+      internalID: 6978715442030580158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earring_2
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4862
+        width: 65
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5066331, y: 0.9139871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c403784cc4bb6fb0800000000000000
+      internalID: -4653427000475450172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Earring_0
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1120
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a505fe37b25701840800000000000000
+      internalID: 5192779199847288922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
