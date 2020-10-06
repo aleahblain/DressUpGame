@@ -17,6 +17,8 @@ public class FeatureManager : MonoBehaviour
     {
         SaveFeatures();
     }
+
+    // Loads in assets as features
     void LoadFeatures()
     {
         features = new List<Feature>();
@@ -44,6 +46,7 @@ public class FeatureManager : MonoBehaviour
         }
 
     }
+
     void SaveFeatures()
     {
         for (int i = 0; i < features.Count; i++)
@@ -54,6 +57,7 @@ public class FeatureManager : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    // Sets current feature
     public void SetCurrent(int index)
     {
         if(features == null)
@@ -63,6 +67,7 @@ public class FeatureManager : MonoBehaviour
         currFeature = index;
     }
 
+    // Brings player to next feature
     public void NextChoice()
     {
         if(features == null)
@@ -70,11 +75,11 @@ public class FeatureManager : MonoBehaviour
             return;
         }
 
-
         features[currFeature].currIndex++;
         features[currFeature].UpdateFeatures();
 }
 
+    // Brings player to previous feature
     public void PreviousChoice()
     {
         if (features == null)
@@ -95,12 +100,17 @@ public class Feature
     public int currIndex;
     public Sprite[] choices;
     public SpriteRenderer renderer;
+    
+    // Custom constructor
     public Feature(string id, SpriteRenderer rend)
     {
         ID = id;
         renderer = rend;
         UpdateFeatures();
     }
+
+    // Loops player choices around if they go too an index too high
+    // or too low
     public void UpdateFeatures()
     {
         choices = Resources.LoadAll<Sprite>("K5 Textures/" + ID);
